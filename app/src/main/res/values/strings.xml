@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Location Finder</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="normal_map">Normal Map</string>
+    <string name="hybrid_map">Hybrod Map</string>
+    <string name="satellite_map">Sattalite Map</string>
+    <string name="terrain_map">Terrian Map</string>
+</resources>
